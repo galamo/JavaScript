@@ -2,10 +2,10 @@
 .form-style-5{
     max-width: 500px;
     padding: 10px 20px;
-    background: #f4f7f8;
+    background: red;
     margin: 10px auto;
     padding: 20px;
-    background: #f4f7f8;
+    background: blue;
     border-radius: 8px;
     font-family: Georgia, "Times New Roman", Times, serif;
 }
@@ -100,4 +100,10 @@
 .form-style-5 input[type="button"]:hover
 {
     background: #109177;
+}
+
+
+.newForm{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
 }
